@@ -1,0 +1,17 @@
+# Manim output
+media/
+__pycache__/
+*.pyc
+*.pyo
+
+# Audio (generated at runtime)
+narration/audio/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
